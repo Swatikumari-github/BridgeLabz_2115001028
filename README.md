@@ -113,7 +113,7 @@ Key Concepts:
 
 📅 7th February:Solved assignment of object design and submitted it
 
-📅 7th February:Submitted Assignment of inheritance and its concept
+📅 8th February:Submitted Assignment of inheritance and its concept
 
 
 
