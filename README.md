@@ -119,13 +119,16 @@ Key Concepts:
 ✅ Learned the concept of encapsulation,abstraction and interface.
 ✅ submit assignment of encapsulation,abstraction and interface.
 
-📅 13th February:DSA Concept
+📅 11th February:DSA Concept
 ✅ Learned the concept of LinkedList(Singly Doubly,Circular).
 ✅ Submitted the assignment of linked list.
 
-📅 11th February:DSA Concept
+📅 13th February:DSA Concept
 ✅ Studied the concept of Stack Queue and Hashmap and submitted a assignment based on it.       
 
+📅 14th February:DSA Concept
+✅ Studied various sorting algorithm (bubble sort,insertion sort,selection sort,merge sort,quick sort,heap sort,counting sort).
+✅ Submitted an assignment based on sorting techniques.
 
 
 
