@@ -130,5 +130,7 @@ Key Concepts:
 ✅ Studied various sorting algorithm (bubble sort,insertion sort,selection sort,merge sort,quick sort,heap sort,counting sort).
 ✅ Submitted an assignment based on sorting techniques.
 
-
+📅 17th February:DSA Concept
+✅ Studied the concept of Generics classes.
+✅ Submitted an assignment of Algorithm's Runtime Analysis & Big-O Notation
 
