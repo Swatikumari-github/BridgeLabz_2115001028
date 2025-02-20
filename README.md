@@ -138,4 +138,10 @@ Key Concepts:
 ✅Studied the concept of Generics classes.
 ✅ Submitted the assignment of generic classes
 
+📅19th February:DSA Concept
+✅studied the concept of Collections.
+✅submiteed an assignment based on collections.
 
+📅20th February:DSA Concept
+✅Studied the concept of stream.
+✅Submitted the assignment of Streams.
