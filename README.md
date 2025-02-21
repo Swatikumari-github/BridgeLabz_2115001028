@@ -145,3 +145,7 @@ Key Concepts:
 📅20th February:DSA Concept
 ✅Studied the concept of stream.
 ✅Submitted the assignment of Streams.
+
+📅21th February:DSA Concept
+✅Studied the concept of Exception Handling.
+✅Submitted an assignment on Exception Handling.
