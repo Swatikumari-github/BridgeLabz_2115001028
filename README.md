@@ -149,3 +149,9 @@ Key Concepts:
 📅21th February:DSA Concept
 ✅Studied the concept of Exception Handling.
 ✅Submitted an assignment on Exception Handling.
+
+📅22th February:Regex Concept:
+✅Studied the concept of Regex.
+✅Submitted an assignment on Regex.
+
+
