@@ -154,4 +154,8 @@ Key Concepts:
 ✅Studied the concept of Regex.
 ✅Submitted an assignment on Regex.
 
+📅22th February:Annotation and reflection Concept:
+✅Studied the concept of annotation and reflection.
+✅Submitted an assignment on annotation and reflection.
+
 
