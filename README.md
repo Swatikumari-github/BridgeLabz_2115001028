@@ -158,8 +158,12 @@ Key Concepts:
 ✅Studied the concept of annotation and reflection.
 ✅Submitted an assignment on annotation and reflection.
 
-📅24th February:CSV Handling Concept:
+📅25th February:CSV Handling Concept:
 ✅Studied the concept of Handling Concept
 ✅Submitted an assignment on Handling Concept.
+
+📅25th February:CSV JSON DATA Concept:
+✅Studied the concept of Json.
+✅Submitted an assignment on Json.
 
 
