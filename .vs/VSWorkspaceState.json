@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BusinessLayer",
+    "\\ModelLayer",
+    "\\RepositoryLayer",
+    "\\UserRegister",
+    "\\UserRegister\\Controllers"
+  ],
+  "PreviewInSolutionExplorer": false
+}
