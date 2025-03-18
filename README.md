@@ -166,4 +166,10 @@ Key Concepts:
 ✅Studied the concept of Json.
 ✅Submitted an assignment on Json.
 
+📅17th March:JS basics concept:
+✅Studied the concept of Js basic structure Loops,Conditionals etc.
+✅Submitted an assignment on Js basic structure Loops,Conditionals etc..
 
+📅17th March:JS Array Map concept:
+✅Studied the concept of JS Array Map.
+✅Submitted an assignment on JS Array Map.
